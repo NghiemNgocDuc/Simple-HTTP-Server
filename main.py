@@ -1,7 +1,7 @@
 import time
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
-HOST = "192.168.1.9"
+HOST = "ip"
 PORT = 9999
 class NeuralHTTP(BaseHTTPRequestHandler):
 
